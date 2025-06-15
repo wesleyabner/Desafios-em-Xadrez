@@ -1,0 +1,8 @@
+
+
+## ⚙️ Compilação
+
+Use gcc para compilar:
+
+```bash
+gcc main.c tabuleiro.c -o xadrez
